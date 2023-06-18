@@ -8,7 +8,8 @@ Auto Reaction Tool [SOURCECODE]
 5) Run 'main.py' and stop it again.
 6) Open 'settings.json' and configurate your Server ID [ set 'everyone' to true ], [ set 'tokens' to the amount of tokens you added to the server ], [ set 'max' to the maximum reacts ]
 7) Create a new File in the Folder named 'serverid.txt' [ replace 'serverid' ] with the ServerID which you added before to 'whitelist.txt'
-8) Start 'main.py' and enjoy!
+8) Put your tokens, which you added to the Server in the 'serverid.txt' file
+9) Start 'main.py' and enjoy!
 
 > Questions or Issues?
  > Contact me on Discord!
